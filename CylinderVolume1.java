@@ -1,8 +1,4 @@
-/*
-Student ID:18970601
-Name: Ibrahim George 
-Campus: Penrith 
- */
+
 
 import java.util.Scanner;
 
